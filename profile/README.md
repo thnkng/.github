@@ -32,15 +32,6 @@ Nossa missão é transformar ideias em produtos escaláveis, rápidos de lançar
 | **CTO as a Service**    | Liderança técnica sob demanda, visão estratégica e governança tecnológica. |
 | **MicroSaaS & Plataformas** | Produtos digitais enxutos, ágeis e com foco no negócio.                   |
 | **UX/DX First**          | Experiência como diferencial competitivo, da interface ao código.         |
-
----
-
-## 🌐 Onde nos encontrar
-
-- 🔗 [Site oficial](https://thinkng.github.io)
-- 📫 contato@thinkng.tech
-- 💼 [LinkedIn](https://linkedin.com/company/thinkng) *(exemplo)*
-
 ---
 
 <p align="center">
