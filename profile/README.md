@@ -1,5 +1,4 @@
 <h1 align="center">🧠 Thinkng</h1>
-<p align="center"><strong>Tecnologia com Propósito</strong></p>
 <p align="center">
   A <strong>Thinkng</strong> (lê-se <em>Thinking</em>) é uma empresa de tecnologia 360º que une consultoria, produto digital e execução técnica em um só lugar.  
   Atuamos com foco em <strong>UX</strong> e <strong>DX</strong>, oferecendo soluções simples, escaláveis e centradas nas pessoas.
