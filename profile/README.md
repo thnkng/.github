@@ -16,24 +16,6 @@
 
 A **Thinkng** (lê-se *Thinking*) é uma empresa de tecnologia 360° que atua como parceira estratégica para negócios digitais.
 
-Unimos:
-- 👨‍💻 **CTO as a Service**
-- ⚙️ **Desenvolvimento de produtos digitais**
-- 💡 **UX e DX como pilares de inovação**
-
-Nossa missão é transformar ideias em produtos escaláveis, rápidos de lançar, e centrados nas pessoas.
-
----
-
-## 💼 O que entregamos
-
-| Serviço                 | Descrição                                                                 |
-|------------------------|---------------------------------------------------------------------------|
-| **CTO as a Service**    | Liderança técnica sob demanda, visão estratégica e governança tecnológica. |
-| **MicroSaaS & Plataformas** | Produtos digitais enxutos, ágeis e com foco no negócio.                   |
-| **UX/DX First**          | Experiência como diferencial competitivo, da interface ao código.         |
----
-
 <p align="center">
   © 2025 Thinkng • Todos os direitos reservados
 </p>
