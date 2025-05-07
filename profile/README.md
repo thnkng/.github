@@ -1,41 +1,48 @@
-# 🧠 Thinkng — Tecnologia com Propósito
+<h1 align="center">🧠 Thinkng</h1>
+<p align="center"><strong>Tecnologia com Propósito</strong></p>
+<p align="center">
+  Estratégia, produto e execução em um modelo 360º, com foco total em <strong>UX</strong> e <strong>DX</strong>.
+</p>
 
-**Thinkng** (lê-se *Thinking*) é uma plataforma estratégica de tecnologia sob demanda. Atuamos como parceiros completos — da visão à execução — para empresas que buscam inovação com foco em experiência e escala.
-
-Nosso diferencial está na união de **liderança técnica**, **produto enxuto**, e **design centrado em pessoas**.
-
----
-
-## 💼 Nosso modelo de negócio
-
-Oferecemos um modelo 360º de tecnologia para empresas em crescimento, com três frentes integradas:
-
-- 👨‍💻 **CTO as a Service**  
-  Liderança técnica sob demanda para orientar decisões, arquitetura e estratégia digital.
-
-- 🛠 **Criação e execução de produtos digitais**  
-  De microSaaS a plataformas robustas, com time enxuto, ágil e altamente técnico.
-
-- 💡 **Tecnologia centrada em UX e DX**  
-  Entregamos experiências que encantam usuários e desenvolvedores — colocando pessoas no centro da solução.
+<p align="center">
+  <img src="https://img.shields.io/badge/CTO%20as%20a%20Service-enabled-blue" alt="CTO as a Service" />
+  <img src="https://img.shields.io/badge/UX%20First-Experience%20Driven-ffcc00" alt="UX First" />
+  <img src="https://img.shields.io/badge/MicroSaaS-Built%20Lean-green" alt="MicroSaaS" />
+</p>
 
 ---
 
-## 🌍 Nossa presença
+## 🚀 Sobre nós
 
-- 🌐 Site: [thinkng.tech](https://thinkng.github.io)
-- 📫 Email: contato@thinkng.tech
-- 🔗 LinkedIn: [linkedin.com/company/thinkng](https://linkedin.com/company/thinkng) *(exemplo)*
+A **Thinkng** (lê-se *Thinking*) é uma empresa de tecnologia 360° que atua como parceira estratégica para negócios digitais.
 
----
+Unimos:
+- 👨‍💻 **CTO as a Service**
+- ⚙️ **Desenvolvimento de produtos digitais**
+- 💡 **UX e DX como pilares de inovação**
 
-## 📚 Sobre este repositório
-
-Este repositório `.github` contém os arquivos institucionais usados pela organização Thinkng, incluindo:
-
-- `README.md` — esta apresentação geral
-- Templates futuros de issues, PRs e código de conduta (opcional)
+Nossa missão é transformar ideias em produtos escaláveis, rápidos de lançar, e centrados nas pessoas.
 
 ---
 
-© 2025 Thinkng. Todos os direitos reservados.
+## 💼 O que entregamos
+
+| Serviço                 | Descrição                                                                 |
+|------------------------|---------------------------------------------------------------------------|
+| **CTO as a Service**    | Liderança técnica sob demanda, visão estratégica e governança tecnológica. |
+| **MicroSaaS & Plataformas** | Produtos digitais enxutos, ágeis e com foco no negócio.                   |
+| **UX/DX First**          | Experiência como diferencial competitivo, da interface ao código.         |
+
+---
+
+## 🌐 Onde nos encontrar
+
+- 🔗 [Site oficial](https://thinkng.github.io)
+- 📫 contato@thinkng.tech
+- 💼 [LinkedIn](https://linkedin.com/company/thinkng) *(exemplo)*
+
+---
+
+<p align="center">
+  © 2025 Thinkng • Todos os direitos reservados
+</p>
