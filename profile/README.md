@@ -1,4 +1,4 @@
-<h1 align="center">Thinkng</h1>
+<h1 align="center">Thinkng.in</h1>
 
 <p align="center">
   A <strong>Thinkng</strong> (lê-se <em>Thinking</em>) é uma empresa de tecnologia 360º que acredita no poder da inovação aberta para transformar o futuro da TI.  
