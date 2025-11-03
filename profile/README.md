@@ -18,7 +18,6 @@
 </p>
 
 
-
 <p align="center">
   © 2025 Thinkng — ❤️ Open Source
 </p>
