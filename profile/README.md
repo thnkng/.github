@@ -1,13 +1,11 @@
 <h1 align="center">Thinkng.in</h1>
 
 <p>
-  A <strong>Thinkng</strong> (lê-se <em>Thinking</em>) é uma empresa de tecnologia 360º que acredita no poder da inovação aberta para transformar o futuro da TI.  
-  Inspirados pelo modelo open source, conectamos comunidade, colaboração e liberdade tecnológica com a solidez necessária para ambientes corporativos modernos.
+Thinkng (pronounced Thinking) is a 360º technology company that believes in the power of open innovation to transform the future of IT. Inspired by the open-source model, we connect community, collaboration, and technological freedom with the solidity required for modern corporate environments.
 </p>
 
 <p>
-  Nossa missão é acelerar a adoção de tecnologias abertas, ajudando empresas a inovar sem perder confiabilidade e segurança.  
-  Atuamos no desenho de arquiteturas escaláveis, integração de ecossistemas e suporte enterprise, sempre com a visão de que o verdadeiro valor nasce da colaboração entre pessoas, times e comunidades.
+ Our mission is to accelerate the adoption of open technologies, helping companies innovate without sacrificing reliability and security. We work on the design of scalable architectures, ecosystem integration, and enterprise support — always with the vision that true value is born from collaboration among people, teams, and communities.
 </p>
 
 <p align="center">
