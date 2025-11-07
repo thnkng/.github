@@ -1,41 +1,24 @@
-# 🧠 Thinkng — Tecnologia com Propósito
+# Thnkng
 
-**Thinkng** (lê-se *Thinking*) é uma plataforma estratégica de tecnologia sob demanda. Atuamos como parceiros completos — da visão à execução — para empresas que buscam inovação com foco em experiência e escala.
+**Thnkng** is where **design, code, and purpose** meet.  
+We don’t just build systems — we build **meaning**.
 
-Nosso diferencial está na união de **liderança técnica**, **produto enxuto**, e **design centrado em pessoas**.
+We believe technology should inspire, not overwhelm.  
+That the power of simplicity is what truly moves the world.
 
----
+Our work is to make the invisible possible —  
+to turn complex ideas into experiences that feel inevitable.
 
-## 💼 Nosso modelo de negócio
+**Open source, to us, is more than collaboration.**  
+It’s intellectual freedom.  
+It’s the choice to build a world where knowledge belongs to everyone,  
+and innovation is born from those who dare to think differently.
 
-Oferecemos um modelo 360º de tecnologia para empresas em crescimento, com três frentes integradas:
-
-- 👨‍💻 **CTO as a Service**  
-  Liderança técnica sob demanda para orientar decisões, arquitetura e estratégia digital.
-
-- 🛠 **Criação e execução de produtos digitais**  
-  De microSaaS a plataformas robustas, com time enxuto, ágil e altamente técnico.
-
-- 💡 **Tecnologia centrada em UX e DX**  
-  Entregamos experiências que encantam usuários e desenvolvedores — colocando pessoas no centro da solução.
+We create tools and consulting that unite **clarity, functional beauty, and real impact.**  
+Because when technology disappears, what remains is what truly matters: **the idea.**
 
 ---
 
-## 🌍 Nossa presença
+**Thnkng. Because thinking is creating.**
 
-- 🌐 Site: [thinkng.tech](https://thinkng.github.io)
-- 📫 Email: contato@thinkng.tech
-- 🔗 LinkedIn: [linkedin.com/company/thinkng](https://linkedin.com/company/thinkng) *(exemplo)*
-
----
-
-## 📚 Sobre este repositório
-
-Este repositório `.github` contém os arquivos institucionais usados pela organização Thinkng, incluindo:
-
-- `README.md` — esta apresentação geral
-- Templates futuros de issues, PRs e código de conduta (opcional)
-
----
-
-© 2025 Thinkng. Todos os direitos reservados.
+© 2025 Thnkng — ❤️ Open Source
