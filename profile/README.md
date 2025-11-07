@@ -1,21 +1,24 @@
-<h1 align="center">Thinkng</h1>
+# Thinkng
 
-<p>
-Thinkng (pronounced Thinking) is a 360º technology company that believes in the power of open innovation to transform the future of IT. Inspired by the open-source model, we connect community, collaboration, and technological freedom with the solidity required for modern corporate environments.
-</p>
+**Thinkng** is where **design, code, and purpose** meet.  
+We don’t just build systems — we build **meaning**.
 
-<p>
- Our mission is to accelerate the adoption of open technologies, helping companies innovate without sacrificing reliability and security. We work on the design of scalable architectures, ecosystem integration, and enterprise support — always with the vision that true value is born from collaboration among people, teams, and communities.
-</p>
+We believe technology should inspire, not overwhelm.  
+That the power of simplicity is what truly moves the world.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-First-blue" alt="Open Source First" />
-  <img src="https://img.shields.io/badge/Community-Collaboration-green" alt="Community Collaboration" />
-  <img src="https://img.shields.io/badge/Enterprise-Ready-orange" alt="Enterprise Ready" />
-  <img src="https://img.shields.io/badge/Innovation-Sustainable-yellow" alt="Sustainable Innovation" />
-</p>
+Our work is to make the invisible possible —  
+to turn complex ideas into experiences that feel inevitable.
 
+**Open source, to us, is more than collaboration.**  
+It’s intellectual freedom.  
+It’s the choice to build a world where knowledge belongs to everyone,  
+and innovation is born from those who dare to think differently.
 
-<p align="center">
-  © 2025 Thinkng — ❤️ Open Source
-</p>
+We create tools and consulting that unite **clarity, functional beauty, and real impact.**  
+Because when technology disappears, what remains is what truly matters: **the idea.**
+
+---
+
+**Thinkng. Because thinking is creating.**
+
+© 2025 Thinkng — ❤️ Open Source
