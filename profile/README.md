@@ -1,4 +1,4 @@
-<h1 align="center">Thinkng.in</h1>
+<h1 align="center">Thinkng</h1>
 
 <p>
 Thinkng (pronounced Thinking) is a 360º technology company that believes in the power of open innovation to transform the future of IT. Inspired by the open-source model, we connect community, collaboration, and technological freedom with the solidity required for modern corporate environments.
