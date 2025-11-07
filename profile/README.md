@@ -1,6 +1,6 @@
-# Thinkng
+# Thnkng
 
-**Thinkng** is where **design, code, and purpose** meet.  
+**Thnkng** is where **design, code, and purpose** meet.  
 We don’t just build systems — we build **meaning**.
 
 We believe technology should inspire, not overwhelm.  
@@ -19,6 +19,6 @@ Because when technology disappears, what remains is what truly matters: **the id
 
 ---
 
-**Thinkng. Because thinking is creating.**
+**Thnkng. Because thinking is creating.**
 
-© 2025 Thinkng — ❤️ Open Source
+© 2025 Thnkng — ❤️ Open Source
